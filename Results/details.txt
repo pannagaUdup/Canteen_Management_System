@@ -1,0 +1,6 @@
+1.Home Page- canteenHomePage.png
+2.Billing Page- billing.png
+3.Ordered Listing- OrderedList.png
+4.Customer Details- CustomerDetails.png
+5.Database Table for Billing- BillingTable.png
+6.Database Table for FoodItems- ItemTable.png
